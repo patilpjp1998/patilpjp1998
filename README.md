@@ -16,7 +16,8 @@
 
 ## 🌱 Current Endeavors  
 🎓 **Pursuing Data Analytics** at **Masai School** (Jun 2024 - Current)  
-🎓 **Bachelor of Engineering (CSE)** from **Sant Gadge Baba Amravati University** (Sep 2021 - Jun 2024)  
+🎓 **Bachelor of Engineering (CSE)** from **Sant Gadge Baba Amravati University** (Nov 2022 - Jun 2024)  
+🎓 **Bachelor of Engineering (FT)** from **DR Ulhas Patil College of Engeening ** (Oct 2017 - Jun 2022)  
 
 ---
 
@@ -88,7 +89,7 @@
 
 ## 📬 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/tejas-patil2002/" target="blank">
+<a href="www.linkedin.com/in/prashant-patil-534a8b202" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/tejas_patil574/" target="blank">
