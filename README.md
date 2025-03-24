@@ -15,9 +15,9 @@
 ---
 
 ## 🌱 Current Endeavors  
-🎓 **Pursuing Data Analytics** at **Masai School** (Jun 2024 - Current)  
-🎓 **Bachelor of Engineering (CSE)** from **Sant Gadge Baba Amravati University** (Nov 2022 - Jun 2024)  
-🎓 **Bachelor of Engineering (FT)** from **DR Ulhas Patil College of Engeening ** (Oct 2017 - Jun 2022)  
+🎓 **Pursuing Data Analytics** at **Masai School** (Oct 2024 - Current)  
+🎓 **MBA  (Marketing)** from **DY Patil Institued of MCA and Management ** (Nov 2022 - Jun 2024)  
+🎓 **Bachelor of Technology (Food Technology)** from **DR Ulhas Patil College of Engeening ** (Oct 2017 - Jun 2022)  
 
 ---
 
@@ -67,12 +67,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </div>
 
----
 
-## 🚀 Projects & Contributions  
-- **Inventory Analysis Dashboard** 📊 – Created real-time inventory tracking in **Power BI**.  
-- **Movie Rating & Genre Analysis** 🎬 – Analyzed trends using **Python & SQL**.  
-- **Social Media Trend Analysis** 📱 – Web-scraped data to find emerging trends.  
+
 
 ---
 
@@ -89,12 +85,10 @@
 
 ## 📬 Connect With Me  
 <p align="left">
-<a href="www.linkedin.com/in/prashant-patil-534a8b202" target="blank">
+<a href="https://www.linkedin.com/in/prashantpatildata/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/tejas_patil574/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+
 </p>
 
 ---
